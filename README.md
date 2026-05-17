@@ -2,7 +2,7 @@
 
 # 1.Explicacion
 
-El proyecto que he ralizado en Progrmacion consiste en una aplicacion para comprar videojuegos y dejar tus comentarios, pudiendo haber 2 tipos de usuarios (Cliente y Administrador).  
+El proyecto que he ralizado en Programacion consiste en una aplicacion para comprar videojuegos y dejar tus comentarios, pudiendo haber 2 tipos de usuarios (Cliente y Administrador).  
 El cliente es el usuario normal que solo puede añadir dinero, comprar y dejar un comentario y el administrador puede editar los videojuegos que se venden, ya sea editarlos, eliminarlos  
 o añadirlos.
 
